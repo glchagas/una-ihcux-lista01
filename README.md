@@ -7,4 +7,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 
-(/.<img width="964" height="549" alt="print cmd sucesso" src="https://github.com/user-attachments/assets/bf4cea5a-9aa2-4d56-8c24-b682fbb22dd5"/>)
+<img width="964" height="549" alt="print cmd sucesso" src="https://github.com/user-attachments/assets/bf4cea5a-9aa2-4d56-8c24-b682fbb22dd5"/>
